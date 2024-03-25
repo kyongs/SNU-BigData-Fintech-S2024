@@ -1,13 +1,13 @@
 # SNU-BigData-Fintech-S2024
 
 - **Instructor**: Prof. Sang-Won Lee
-- **TA**: Kyong-Shik Lee
+- **TA**: Kyong-Shik Lee (kyongshikl@gmail.com)
 
 ## Material
 
 #### 1. 2024.03.25
 
-- [LiveSQL Scott Account SQL](./week1-1/scott.sql)
+- [LiveSQL Scott SQL File](./week1-1/scott.sql)
 -
 
 #### 2. 2024.03.29
