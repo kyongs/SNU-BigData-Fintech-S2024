@@ -9,6 +9,7 @@
 
 - [LiveSQL Scott SQL File](./week1-1/scott.sql)
 - [1.1 Introduction to DB (LiveSQL)](<./week1-1/1.1%20Introduction%20to%20DB%20(LiveSQL).md>)
+- [1.2 relational model (LiveSQL)](<./week1-1/1.2%20relational%20model%20(LiveSQL).md>)
 
 #### 2. 2024.03.29
 
