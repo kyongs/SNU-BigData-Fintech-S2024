@@ -1,6 +1,6 @@
-## SQL Practice
+## Simple SQL Practice
 
-> 해당 github 파일은 [sql_nl2sql.pdf](<./sql_nl2sql(%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%95%80%ED%85%8C%ED%81%AC).pdf>) 파일을 기준으로 작성하였습니다.
+> 해당 github 파일은 [sql_nl2sql.pdf](<./sql_nl2sql(%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%95%80%ED%85%8C%ED%81%AC).pdf>) 파일에 기반하여 작성하였습니다.
 
 - **목적**: 기본SQL 문법 연습
 
