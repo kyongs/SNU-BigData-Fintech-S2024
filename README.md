@@ -13,7 +13,7 @@
 
 #### 2. 2024.03.29
 
-- TBA
+- [SQL Practice](./week1-2/postgres-example.md)
 
 #### 3. 2024.04.01
 
