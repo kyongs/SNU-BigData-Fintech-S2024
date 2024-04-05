@@ -21,7 +21,7 @@
 
 #### 4. 2024.04.05
 
-- [VectorDB RAG](./week-2-2/README.md)
+- [VectorDB RAG](./week2-2/README.md)
 
 ## Contact
 
